@@ -1,1 +1,1 @@
-This is Git assigment with Trst.
+This is edit and update Git assigment with Trst.
