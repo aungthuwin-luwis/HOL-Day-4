@@ -1,1 +1,3 @@
 This is new feature.
+
+This changes for new-feature branch.
